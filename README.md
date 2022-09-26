@@ -4,16 +4,16 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 Skills: 
 
-✔Javascript
-✔ PHP
-✔ React
-✔ Node.js
-✔ Express js
-✔ CSS/Bootstrap/Tailwind CSS
+- ✔Javascript
+- ✔ PHP
+- ✔ React
+- ✔ Node.js
+- ✔ Express js
+- ✔ CSS/Bootstrap/Tailwind CSS
 
 Databases:
-✔ MySQL
-✔ MongoDB
+- ✔ MySQL
+- ✔ MongoDB
 
 
 - 🔭 I’m currently working on this page. 
