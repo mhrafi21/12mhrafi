@@ -2,7 +2,19 @@
 #### Web Developer
 I love to write code  to work as a web developer to make both front-end as well as back-end using Javascript.
 
-Skills: Javascript/PHP/React/Node.js/Express js/CSS/Bootstrap/Tailwind CSS
+Skills: 
+
+✔Javascript
+✔ PHP
+✔ React
+✔ Node.js
+✔ Express js
+✔ CSS/Bootstrap/Tailwind CSS
+
+Databases:
+✔ MySQL
+✔ MongoDB
+
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Github 
