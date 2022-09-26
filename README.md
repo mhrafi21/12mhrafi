@@ -6,7 +6,7 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 ### Skills: 
 
-- https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg ✔Javascript
+- ✔ Javascript
 - ✔ PHP
 - ✔ React
 - ✔ Node.js
