@@ -2,7 +2,7 @@
 #### Web Developer
 I love to write code  to work as a web developer to make both front-end as well as back-end using Javascript.
 
-#####Skills: 
+### Skills: 
 
 - ✔Javascript
 - ✔ PHP
@@ -11,7 +11,7 @@ I love to write code  to work as a web developer to make both front-end as well 
 - ✔ Express js
 - ✔ CSS/Bootstrap/Tailwind CSS
 
-#####Databases:
+### Databases:
 - ✔ MySQL
 - ✔ MongoDB
 
