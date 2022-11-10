@@ -10,7 +10,8 @@ I love to write code  to work as a web developer to make both front-end as well 
 - ✔ PHP
 - ✔ React
 - ✔ Laravel
-- ✔ CSS/Bootstrap/Tailwind CSS
+- ✔ CSS
+- ✔ Bootstrap/TailwindCss
 
 ### Databases:
 - ✔ MySQL
