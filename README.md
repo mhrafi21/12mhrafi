@@ -6,6 +6,8 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 ### Skills: 
 
+- ✔ HTML
+- ✔ CSS
 - ✔ Javascript
 - ✔ PHP
 - ✔ React
