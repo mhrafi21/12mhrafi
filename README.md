@@ -1,17 +1,14 @@
 ### Hi there, my name is Rafi
 #### Web Developer
-I love to write code  to work as a web developer to make both front-end as well as back-end using PHP & JavaScript.
+I love to write code  to work as a web developer to make both front-end as well as back-end using JavaScript.
 
 ### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=12mhrafi&show_icons=true&count_private=true)  
 
 ### Skills: 
 
 
-- ✔ HTML
+- React.js
 - ✔ JavaScript
-- ✔ PHP
-- ✔ React
-- ✔ Laravel
 - ✔ CSS
 - ✔ Bootstrap/TailwindCss
 
