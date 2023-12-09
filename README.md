@@ -31,10 +31,9 @@ I love to write code  to work as a web developer to make both front-end as well 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12mhrafi&show_icons=true&theme=transparent)
 
 
-### Social Links:
+### Get in touch:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/12mhrafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100074749040083)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/12mhrafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100074749040083)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:mahdi71078rafi@gmail.com) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12mhrafi)](https://github.com/anuraghazra/github-readme-stats)
