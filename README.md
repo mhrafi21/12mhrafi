@@ -3,7 +3,7 @@
 #### Web Developer
 ## Hi there, my name is Rafi
 
-I love to write code  to work as a web developer to make both front-end as well as back-end using MERN stack. In front-end is used one of the most popular framework React.js, Tailwindcss, and back-end is used express, mongoDB, node.js etc.
+I love to write code  to work as a web developer to make both front-end as well as back-end using MERN stack. In front-end is used one of the most popular framework React.js and back-end is used express, mongoDB, node.js etc. Specially I am comfortable to build any website with JavaScript programming language.
 
 ### Technologies and Tools : 
 
