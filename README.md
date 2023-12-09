@@ -1,5 +1,5 @@
 
-<img src = "https://github.com/12mhrafi/12mhrafi/blob/main/banner.jpg">
+<img width="100%" src = "https://github.com/12mhrafi/12mhrafi/blob/main/banner.jpg">
 
 ### Hi there, my name is Rafi
 #### Web Developer
