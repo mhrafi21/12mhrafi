@@ -3,11 +3,10 @@
 #### Web Developer
 ## Hi there, my name is Rafi
 
-
 I love to write code  to work as a web developer to make both front-end as well as back-end using MERN stack. In front-end is used one of the most popular framework React.js, Tailwindcss, and back-end is used express, mongoDB, node.js etc.
 
-
 ### Technologies and Tools : 
+
 <div align="start">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
@@ -22,18 +21,16 @@ I love to write code  to work as a web developer to make both front-end as well 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
 </div>
 
-
 ### Recent Stats :
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12mhrafi&show_icons=true&theme=transparent)
 
-
 ### Get in touch:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/12mhrafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100074749040083)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:mahdi71078rafi@gmail.com)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/12mhrafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100074749040083)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:mahdi71078rafi@gmail.com)
 
 ### Streak stats:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=12mhrafi) 
-
 
 ### Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12mhrafi)](https://github.com/anuraghazra/github-readme-stats)
