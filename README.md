@@ -1,8 +1,10 @@
-<img width="100%" src = "https://github.com/12mhrafi/12mhrafi/blob/main/banner.jpg">
 
-### Hi there, my name is Rafi
+## Hi there, my name is Rafi
 #### Web Developer
 I love to write code  to work as a web developer to make both front-end as well as back-end using JavaScript.
+
+
+<img width="100%" src = "https://github.com/12mhrafi/12mhrafi/blob/main/banner.jpg">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12mhrafi&show_icons=true&theme=transparent)
 
