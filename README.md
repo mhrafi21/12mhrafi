@@ -1,4 +1,4 @@
-<img width="100%" src = "https://github.com/12mhrafi/12mhrafi/blob/main/banner.jpg">
+<img width="100%" src = "https://github.com/mhrafi21/mhrafi21/blob/main/banner.jpg">
 
 #### Web Developer
 ## Hi there, my name is Rafi
@@ -23,17 +23,17 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 ### Recent Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12mhrafi&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrafi21&show_icons=true&theme=transparent)
 
 ### Get in touch:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/12mhrafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100074749040083)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:mahdi71078rafi@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhrafi21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100074749040083)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:mahdi71078rafi@gmail.com)
 
 ### Streak stats:
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=12mhrafi) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mhrafi21) 
 
 ### Most used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12mhrafi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafi21)](https://github.com/anuraghazra/github-readme-stats)
 
