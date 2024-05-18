@@ -27,7 +27,7 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 ### Woka Time Stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhrafi21)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Get in touch:
 
