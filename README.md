@@ -63,13 +63,15 @@ I love to write code  to work as a web developer to make both front-end as well 
   </a>
 </p>
 
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/mahdi-hasan-rafi-7215a42a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-hasan-rafi-7215a42a0" height="30" width="40" /></a>
+<a href="https://fb.com/mdmahdihasan.rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmahdihasan.rafi" height="30" width="40" /></a>
+</p>
+
 ### Recent Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrafi21&show_icons=true&theme=transparent)
-
-### Get in touch:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhrafi21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100074749040083)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:mahdi71078rafi@gmail.com)
 
 ### Streak stats:
 
