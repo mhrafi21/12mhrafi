@@ -5,11 +5,9 @@
 
 I love to write code  to work as a web developer to make both front-end as well as back-end using MERN stack. In front-end is used one of the most popular framework React.js and back-end is used express, mongoDB, node.js etc. Specially I'm comfortable to build any website with JavaScript programming language.
 
-<p>
 - 🌱 I’m currently learning **Next Level Web Development(NOSQL BACKEND TRACK) with "Programming Hero"**
 - 👨‍💻 All of my projects are available at [https://rococo-cucurucho-23cf8d.netlify.app/](https://rococo-cucurucho-23cf8d.netlify.app/)
 - 📫 How to reach me **mahdi71078rafi@gmail.com**
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -76,7 +74,7 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mhrafi21) 
 
-### Most used:
+### Most used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafi21)](https://github.com/anuraghazra/github-readme-stats)
 
