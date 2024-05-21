@@ -1,4 +1,4 @@
-<img width="100%" src = "https://github.com/mhrafi21/mhrafi21/blob/main/banner.jpg">
+<img width="100%" src = "https://github.com/mhrafi21/mhrafi21/blob/main/banner.png">
 
 ## Hi there, my name is Rafi
 
